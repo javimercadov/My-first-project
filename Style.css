@@ -14,8 +14,8 @@ h1{
 	font-size: 3rem;
 	color: #e3d0d0;
     text-transform: uppercase ;
-    text-shadow: 2px 2px 4px #000000
-
+    text-shadow: 2px 2px 4px #000000;
+	class="animate__animated animate__bounce">The Biggest Event Of The Year
 }
 hr {
     margin: 20px auto;
